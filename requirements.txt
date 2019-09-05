@@ -1,1 +1,2 @@
 elasticsearch==7.0.4
+dialogflow==0.6.0
